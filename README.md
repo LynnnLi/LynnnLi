@@ -2,7 +2,7 @@
 - 👀 I’m interested in psychology and computer science
 - 🌱 I’m currently learning C
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: Wanna to be a software engineer who can do mental healthy counselling ❤️
+- ⚡ Fun fact: Wanna be a software engineer who can do mental healthy counselling ❤️
 
 <!---
 LynnnLi/LynnnLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
